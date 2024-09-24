@@ -26,8 +26,10 @@ nav a{
 	text-align: right;
 	
 }
-.imagem-logo {
+.imagem-logo img {
 	margin-top: 20px;
+	width: 10rem;
+	border-radius: 20%;
 }
 
 .imagem-logo2 {

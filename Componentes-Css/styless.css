@@ -1,0 +1,171 @@
+/*--------------------------------------index---------------------------------------------*/
+body {
+	font-family: 'Signika Negative', sans-serif;
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+}
+
+.nome-da-loja {
+	color: white;
+	text-align: initial;
+	font-size: 70px;
+	margin: 30px;
+	font-family: 'Dosis', sans-serif;
+	margin-right: 40%;
+	font-family: "Pacifico", cursive;
+
+}
+
+.entrada {
+	font-size: 20px;
+	background:#d1b097;
+	padding: 20px;
+	text-align: right;
+    margin-top: -0%;
+    
+	
+}
+.imagem-logo img {
+	margin-top: 20px;
+	width: 10rem;
+	border-radius: 20%;
+}
+
+.imagem-logo2 {
+	margin-top: 20px;
+}
+
+.container a {
+	transition: 0.4s all;
+}
+.container a:hover {
+	color: #ffffff;
+}
+
+.entrada-lista {
+	padding: 50px;
+}
+	
+
+.entrada-lista li {
+	padding: 5px;
+}
+
+.entrada-lista img {
+	width: 18px;
+	padding-right: 5px;
+}
+
+.menu-de-navegacao {
+	font-size: 30px;
+	background: #d1b097;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.menu-de-navegacao li {
+	padding: 25px;
+	padding-right: 40px;
+}
+
+
+
+
+
+
+
+
+
+.finalizar{
+    font-size: 5rem;
+	font-family: "Kanit", sans-serif;
+}
+
+.main-content {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 80px;
+	font-family: "Kanit", sans-serif;
+	font-size: 25px;
+   
+    
+}
+.payment-options {
+	flex: 2;
+	background: #e0e0e0d6;
+	padding: 20px;
+	border-radius: 5px;
+    max-width: 888px;
+    height:222px;
+	font-family: "Kanit", sans-serif;
+	font-size: 25px;
+	
+   
+
+}
+.order-summary {
+	flex: 1;
+	background: #e0e0e0d6;
+	padding: 20px;
+	border-radius: 5px;
+	margin-left: 20px;
+    height: 222px;
+	font-family: "Kanit", sans-serif;
+    
+
+ 
+    
+}
+.payment-method {
+	border: 1px solid #ddd;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	text-align:start;
+
+	position: relative;
+		
+	
+	
+	
+		
+}
+.btn {
+	display: inline-block;
+	background: #3483fa;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	border-radius: 5px;
+}
+.btn:hover {
+	background: #2968c8;
+}
+
+.pix img{
+margin-left: 39%;
+position: absolute;
+top: 0;
+width: 50px;
+height: auto;
+}
+
+.cartao img{
+	margin-left: 39%;
+	position: absolute;
+	top: 0;
+	width: 50px;
+	height: auto;
+	}
+	.boleto img{
+		margin-left: 39%;
+		position: absolute;
+		top: 0;
+		width: 50px;
+		height: auto;
+		}
